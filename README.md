@@ -1,6 +1,6 @@
 # -运行命令(只是图片优化的代码，视频优化懒得看了，愿意玩玩的自己弄，但还是感谢 https://github.com/xinntao 大佬的辛勤付出)
-# -英文文档在目录下的 README_windows.md
-# -开源项目地址 https://github.com/xinntao/Real-ESRGAN
+#  英文文档在目录下的 README_windows.md
+#  开源项目地址 https://github.com/xinntao/Real-ESRGAN
 ./realesrgan-ncnn-vulkan.exe -i 输入图像.jpg -o 输出图像.png -n 模型名字
 
 # -五种模型
