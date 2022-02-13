@@ -8,7 +8,11 @@
 
 #  五种模型
 realesrgan-x4plus（默认）
+#
 reaesrnet-x4plus
+#
 realesrgan-x4plus-anime（针对动漫插画图像优化，有更小的体积）
+#
 RealESRGANv2-animevideo-xsx2 (针对动漫视频, X2)
+#
 RealESRGANv2-animevideo-xsx4 (针对动漫视频, X4)
